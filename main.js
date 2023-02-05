@@ -43,7 +43,7 @@ function title() {
       })))
 console.log(chalk.yellow(`${chalk.red('[ Made By RonzzYT ]')}\n\n${chalk.italic.magenta('â€¢ Author')} : ${chalk.white('RonzzOfc')}\n${chalk.italic.magenta('â€¢ YouTube')} : ${chalk.white('Ronzz YT')}\n${chalk.italic.magenta('â€¢ Caption')} : ${chalk.white('Terus Berkarya Hingga Suatu Saat Menjadi Orang Kaya')}\n${chalk.italic.magenta('â€¢ Donate')} : ${chalk.white('https://saweria.co/RonzzYT')}\n`))
 }
-
+// Bambang
 /**
 * Uncache if there is file change;
 * @param {string} module Module name or path;
